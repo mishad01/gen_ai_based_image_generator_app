@@ -3,7 +3,6 @@ import 'package:gen_ai_based_image_generator_app/presentation/home/provider/imag
 import 'package:gen_ai_based_image_generator_app/presentation/home/widget/image_display_widget.dart';
 import 'package:provider/provider.dart';
 
-/// Main screen for the AI Image Generator app
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 

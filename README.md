@@ -2,6 +2,10 @@
 
 A Flutter application that generates images using OpenAI's DALL-E 2 API. Enter a text prompt and watch as AI creates unique images based on your description.
 
+<td align="center">
+      <img src="https://github.com/user-attachments/assets/167daa3d-1229-4f13-a591-d45fba61d187" width="250" />
+</td>
+    
 ## Features
 
 - **AI-Powered Image Generation** - Uses OpenAI's DALL-E 2 model
@@ -243,6 +247,4 @@ This project is created for educational purposes as part of Ostad Batch 11.
 - [Provider Package Documentation](https://pub.dev/packages/provider)
 - [DALL-E 2 Guide](https://platform.openai.com/docs/guides/images)
 
----
 
-**Note**: Remember to keep your API keys secure and never commit them to version control!

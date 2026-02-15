@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:gen_ai_based_image_generator_app/data/model/image_model.dart';
 
-/// Widget to display a generated image
 class ImageDisplayWidget extends StatelessWidget {
   final ImageModel image;
 
